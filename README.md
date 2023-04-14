@@ -1,23 +1,43 @@
-Opencrowd : Crowdfunding Platform Powered by Ethereum Blockchain
+# Opencrowd : Crowdfunding Platform Powered by Ethereum Blockchain
 
-The Platform is live on Goerli Test Network and available to use at : [opencrowd.vercel.app](https://opencrowd.vercel.app/)
+Opencrowd is a crowdfunding platform that utilizes the Ethereum blockchain for enhanced security, transparency, and global contribution. The platform is currently live on the Goerli Test Network and can be accessed at - [opencrowd.vercel.app](https://opencrowd.vercel.app/).
 
 ## Problem Statement and Necessity
 
-Crowdfunding is one of the most popular ways to raise funds for any project, cause or for helping any individual in need. With the onset of Covid we have seen a rise in Crowdfunding activities across the globe which includes small campaigns to help people get oxygen and medical help to large funds such as PM Cares.
+Crowdfunding has become an increasingly popular way to raise funds for various projects, causes, and individuals in need. However, the current crowdfunding platforms have their limitations, which we aimed to address through Opencrowd.
 
-The major problems with the Current Crowdfunding Platforms that we wanted to solve were :
+The major problems we wanted to solve include:
 
-- Security : As the funds become larger, they need to be heavily secure, although stringent measures such as symmetric encryption are in place to make e-payment safe and secure,it is still vulnerable to hacking. Blockchain — which has never been compromised yet — can provide that level of security.
-- Transparency and Anti-Fraud : We have seen, and continue to see a lot of crowdfunding scams happening around. There is no way to see where the funds are being used. We wanted to make the entire flow of funds transparent at every stage, so that there is no possibility of the money being misused.
-- Global contribution : With some of the platforms being country specific, it becomes hard for people from other countries to contribute to various campaigns. Using blockchain anyone in the world can contribute to the campaign. Transactions are quick and convenient.
+### Security
 
-We were highly inspired by the CryptoRelief initiative ([www.cryptorelief.in](https://www.cryptorelief.in)) which raised ~1 billion dollars for Covid Relief in India from the entire global community, in a highly transparent manner.
+As the funds raised on crowdfunding platforms become larger, they need to be heavily secured. While stringent measures such as symmetric encryption are in place to make e-payment safe and secure, they are still vulnerable to hacking. By utilizing the blockchain, which has never been compromised yet, we can provide a higher level of security.
+
+### Transparency and Anti-Fraud
+
+Crowdfunding scams are not uncommon, and it is often difficult to track where the funds are being used. Opencrowd aims to make the entire flow of funds transparent at every stage, ensuring that there is no possibility of the money being misused.
+
+### Global Contribution
+
+Some crowdfunding platforms are country-specific, which makes it challenging for people from other countries to contribute to various campaigns. Using blockchain, anyone in the world can contribute to the campaign, and transactions are quick and convenient.
+
+We were inspired by the CryptoRelief initiative, which raised approximately $1 billion for COVID relief in India from the entire global community in a highly transparent manner.
 
 ## Tech Stack
 
-- Next JS
-- Chakra UI
-- Solidity
-- Web3.js
-- Infura
+Opencrowd is built using the following tech stack:
+
+-   Next JS
+-   Chakra UI
+-   Solidity
+-   Web3.js
+-   Infura
+
+## Usage
+
+To use Opencrowd, simply visit the website at opencrowd.vercel.app. You can browse through various campaigns and contribute to them using your Ethereum wallet.
+
+Note: Opencrowd is currently live on the Goerli Test Network and not on the main Ethereum network. The tokens used on the platform are for testing purposes only and have no real-world value.
+
+## Contributions
+
+We welcome contributions from the community to enhance Opencrowd's features and functionality. Please feel free to submit pull requests or issues on the Github repository.
