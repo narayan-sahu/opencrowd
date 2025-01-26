@@ -1,4 +1,4 @@
-# 🚀 Opencrowd: A Blockchain-Powered Crowdfunding Platform
+# 🚀 Opencrowd: A Decentralized Crowdfunding Platform
 
 Opencrowd is a next-generation crowdfunding platform that harnesses the power of **Ethereum blockchain** to deliver unmatched **security**, **transparency**, and **global accessibility**.  
 
